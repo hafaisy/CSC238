@@ -1,4 +1,13 @@
-# CSC238
-##################ALL FILES GOES FROM ME#######################
 
-KALAU NAK COPY, PASTIKAN UBAH DULU VARIABLE, INITIALIZATION KAT DALAM JGRASP.
+<snippet>
+  <content><![CDATA[
+# ${1:CSC238}
+All CSC238 Tutorial goes to here :)
+## Content
+- Every weeks tutorial 
+- Basic introduction to java with files
+- Forum Topic Sample! 
+
+]]></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
